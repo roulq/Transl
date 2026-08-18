@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="profile-header" src="https://github.com/user-attachments/assets/bf685313-3569-4c60-8897-fb31527b3032" />
+
 # Transl 🌐
 
 A fast, native, and lightweight pop-up translation utility for macOS.
