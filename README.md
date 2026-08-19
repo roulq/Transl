@@ -77,3 +77,5 @@ Join the Discord server to share feedback, report issues, or follow updates:
 ## 📄 License
 
 Distributed under the **GPLv3 License**. See `LICENSE` for details.
+
+<img width="1920" height="1080" alt="474_1x_shots_so" src="https://github.com/user-attachments/assets/4bba821b-07e6-4c96-9d39-4fec432cc541" />
