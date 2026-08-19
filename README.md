@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="profile-header" src="https://github.com/user-attachments/assets/bf685313-3569-4c60-8897-fb31527b3032" />
+<img width="1920" height="1080" alt="474_1x_shots_so" src="https://github.com/user-attachments/assets/4bba821b-07e6-4c96-9d39-4fec432cc541" />
 
 # Transl 🌐
 
@@ -78,4 +78,5 @@ Join the Discord server to share feedback, report issues, or follow updates:
 
 Distributed under the **GPLv3 License**. See `LICENSE` for details.
 
-<img width="1920" height="1080" alt="474_1x_shots_so" src="https://github.com/user-attachments/assets/4bba821b-07e6-4c96-9d39-4fec432cc541" />
+<img width="1500" height="500" alt="profile-header" src="https://github.com/user-attachments/assets/bf685313-3569-4c60-8897-fb31527b3032" />
+
